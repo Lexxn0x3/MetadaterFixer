@@ -1,10 +1,7 @@
-
-# 🛠 MetaFixer: The Ultimate Media Metadata Corrector 🛠
+# MetaFixer: Metadata Correction Utility 🛠️
 
 ## 🌟 Description
-Welcome to MetaFixer! Especially usefull after downloading from messaging and social media platforms like Telegram. Ever noticed how your files lose their original "date created" when downloaded, messing up your perfect file organization? MetaFixer is here to save the day!
-
-This nifty tool is designed to dive into filenames (which often hide date and time info), extract those dates, and then smartly update the file's own metadata to reflect its true origin story. Whether it's JPEGs or MP4s.
+MetaFixer is a Python utility designed to correct metadata of files downloaded from various messaging and social media platforms, ensuring accurate organization and archival. It focuses on JPEG images and MP4 videos, common file formats exchanged over these platforms. MetaFixer extracts date and time information embedded in filenames and updates the files' metadata accordingly. 📅🕒
 
 ## 🚀 Key Features
 - 📸 **JPEG & MP4 Support**: Dandling photos and videos
